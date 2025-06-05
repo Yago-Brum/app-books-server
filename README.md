@@ -45,6 +45,7 @@ This project provides a simple RESTful API for managing a collection of books. I
 
 ## Project Structure
 
+```text
 .
 ├── controllers/
 │   └── books.js           # Handles HTTP requests and responses
@@ -58,6 +59,7 @@ This project provides a simple RESTful API for managing a collection of books. I
 ├── app.js                 # Main application file (server setup)
 ├── package.json           # Project dependencies and scripts
 └── README.md              # Project documentation
+```
 
 ---
 
