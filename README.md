@@ -89,7 +89,7 @@ Make sure you have Node.js installed on your system.
 To start the API server:
 
 ```bash
-npm start
+node app.js
 The API will be running on http://localhost:8000 (or whichever port you configure).
 
 ```
